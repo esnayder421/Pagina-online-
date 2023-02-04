@@ -1,0 +1,28 @@
+
+.table > :not(caption) > * > *, .dataTable-table > :not(caption) > * > * {
+   
+   
+   border-color: #aaaaaa;
+   border-width: 1px;
+   border-style: solid;
+   background-color: #001c38;
+   text-align: center ;
+}
+ 
+
+.h3 {
+   
+   
+ 
+   background-color: #001c38;
+   text-align: center ;
+}
+
+.h1 {
+   
+   
+ 
+   background-color: #001c38;
+   text-align: center ;
+}
+
